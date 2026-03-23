@@ -1,1 +1,5 @@
 Lab 8 
+
+Go inside spotshare/ folder
+Run 'npm install' 
+Run 'npm run dev'
